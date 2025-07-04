@@ -7,8 +7,6 @@
 <a href="https://instagram.com/bayramdeveloper" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram logo" height="40" width="40" /></a>
 <a href="https://t.me/bayramdev" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" alt="Telegram logo" height="40" width="40" /></a>
 <a href="https://tmstart.me/developer" target="blank"><img align="center" src="/start.png" alt="Telegram logo" height="40" width="40" /></a>
-<a href="mailto:bayramcode0808@gmail.com" target="blank"><img style="border-radius:50%;" align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail logo" height="40" width="40" /></a>
-</p>
 
 # 💻 Tech Stack:
 <p align="left">
