@@ -21,7 +21,7 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java logo" height="40" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go logo" height="40" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C# logo" height="40" width="40" />
-<img align="center" src="" alt="PascalABC.NET logo" height="40" width="40" />
+<img align="center" src="/pascal.png" alt="PascalABC.NET logo" height="40" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu logo" height="40" width="40" />
 </p>
 
