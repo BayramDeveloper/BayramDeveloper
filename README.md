@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://instagram.com/bayramdeveloper" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram logo" height="40" width="40" /></a>
 <a href="https://t.me/bayramdev" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" alt="Telegram logo" height="40" width="40" /></a>
-<a href="https://tmstart.me/developer" target="blank"><img align="center" src="/start.png" alt="Telegram logo" height="40" width="40" /></a>
+<a href="https://tmstart.me/developer" target="blank"><img align="center" src="/start.png" alt="Start logo" height="40" width="40" /></a>
 
 # 💻 Tech Stack:
 <p align="left">
